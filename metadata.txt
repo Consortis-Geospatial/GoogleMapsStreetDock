@@ -1,0 +1,8 @@
+[general]
+name=Consortis Geospatial Google Maps Dock
+description=...
+version=2.0
+qgisMinimumVersion=3.0
+author=Consortis Geospatial
+email=gkaravelis@consortis.gr
+icon=icon.png
