@@ -120,5 +120,15 @@ Coming Soon...
 
 ---
 
+## Support and Contributions
+
+- **Homepage**: [https://github.com/Consortis-Geospatial](https://github.com/Consortis-Geospatial)
+- **Issue Tracker**: [https://github.com/Consortis-Geospatial/GoogleMapsStreetDock/issues](https://github.com/Consortis-Geospatial/GoogleMapsStreetDock/issues)
+- **Author**: Gkaravelis Andreas - Consortis Geospatial
+- **Email**: gkaravelis@consortis.gr
+- **Repository**: [https://github.com/Consortis-Geospatial/GoogleMapsStreetDock](https://github.com/Consortis-Geospatial/GoogleMapsStreetDock)
+
+---
+
 ## License
 This plugin is released under the GPL-3.0 license.
