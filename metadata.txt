@@ -1,23 +1,19 @@
 [general]
-name=GoogleMapsDock
+name=GoogleMapsStreetDock
 description=Opens Google Maps in a dockable panel centered at clicked map locations.  
- Allows Street View browsing for detailed digitization using high-resolution imagery.
-about=GoogleMapsDock is a QGIS plugin that opens Google Maps in a dockable browser panel when you click on the QGIS map canvas. 
- 
- It centers the view on the clicked location and allows full Street View exploration directly within QGIS.  
-
- Coordinates are automatically transformed to WGS84 (EPSG:4326) for compatibility with Google Maps.  
-
- Ideal for digitizing road networks or verifying features using real-world imagery.
+ Allows seamless switching between Map View and Street View for detailed digitization using high-resolution imagery.
+about=GoogleMapsStreetDock is a QGIS plugin that integrates Google Maps and Street View into a dockable browser panel.  
+ By clicking on the QGIS map canvas, users instantly center the view on the clicked location with coordinates automatically transformed to WGS84 (EPSG:4326).  
+ The plugin supports toggling between Map View and Street View within the panel, facilitating precise road network digitization and feature verification using real-world imagery directly inside QGIS.
 version=1.0
 qgisMinimumVersion=3.0
 author=Gkaravelis Andreas - Consortis Geospatial
 email=gkaravelis@consortis.gr
 category=Web
 homepage=https://github.com/Consortis-Geospatial
-tracker=https://github.com/Consortis-Geospatial/GoogleMapsDock/issues
-repository=https://github.com/Consortis-Geospatial/GoogleMapsDock
+tracker=https://github.com/Consortis-Geospatial/GoogleMapsStreetDock/issues
+repository=https://github.com/Consortis-Geospatial/GoogleMapsStreetDock
 experimental=False
 deprecated=False
 icon=icon.png
-tags=GoogleMaps, WebView, StreetView, Digitization, DockPanel, Roadnetwork, road
+tags=GoogleMaps, WebView, StreetView, Digitization, DockPanel, RoadNetwork, Mapping
