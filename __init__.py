@@ -1,4 +1,4 @@
-from .main import GoogleMapsDockPlugin
+from .main import GoogleMapsStreetDock
 
 def classFactory(iface):
-    return GoogleMapsDockPlugin(iface)
+    return GoogleMapsStreetDock(iface)
