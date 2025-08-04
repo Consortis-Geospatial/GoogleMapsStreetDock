@@ -4,8 +4,11 @@ description=Opens Google Maps in a dockable panel centered at clicked map locati
  Allows seamless switching between Map View and Street View for detailed digitization using high-resolution imagery.
 about=GoogleMapsStreetDock is a QGIS plugin that integrates Google Maps and Street View into a dockable browser panel.  
  By clicking on the QGIS map canvas, users instantly center the view on the clicked location with coordinates automatically transformed to WGS84 (EPSG:4326).  
- The plugin supports toggling between Map View and Street View within the panel, facilitating precise road network digitization and feature verification using real-world imagery directly inside QGIS.
-version=1.0
+ The plugin supports toggling between Map View and Street View within the panel, facilitating precise road network digitization and feature verification using real-world imagery directly inside QGIS. 
+ 
+ -Needs PyQtWebEngine
+ -See README (https://github.com/Consortis-Geospatial/GoogleMapsStreetDock) for installation help.
+version=2.0
 qgisMinimumVersion=3.0
 author=Gkaravelis Andreas - Consortis Geospatial
 email=gkaravelis@consortis.gr
