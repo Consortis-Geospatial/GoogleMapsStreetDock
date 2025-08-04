@@ -1,3 +1,7 @@
+<div align=center>
+   <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/fbc8497d-ecf1-47cb-b0f0-28234cae629f" />
+</div>
+
 # GoogleMapsStreetDock
 **GoogleMapsStreetDock** is a QGIS plugin that integrates Google Maps and Street View into a dockable browser panel. By clicking on the QGIS map canvas, users can instantly open Street View centered at the selected location, with options to switch to Map View. The panel supports full navigation, enabling detailed exploration and precise digitization of road networks using high-resolution imagery.
 
@@ -120,5 +124,19 @@ Coming Soon...
 
 ---
 
+## Support and Contributions
+
+- **Homepage**: [https://github.com/Consortis-Geospatial](https://github.com/Consortis-Geospatial)
+- **Issue Tracker**: [https://github.com/Consortis-Geospatial/GoogleMapsStreetDock/issues](https://github.com/Consortis-Geospatial/GoogleMapsStreetDock/issues)
+- **Author**: Gkaravelis Andreas - Consortis Geospatial
+- **Email**: gkaravelis@consortis.gr
+- **Repository**: [https://github.com/Consortis-Geospatial/GoogleMapsStreetDock](https://github.com/Consortis-Geospatial/GoogleMapsStreetDock)
+
+---
+
 ## License
 This plugin is released under the GPL-3.0 license.
+
+<div align=center>
+   <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/fbc8497d-ecf1-47cb-b0f0-28234cae629f" />
+</div>
