@@ -1,5 +1,5 @@
 <div align=center>
-   <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/fbc8497d-ecf1-47cb-b0f0-28234cae629f" />
+   <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/c220569a-0c2f-4e68-90c5-c0409859434c" />
 </div>
 
 # GoogleMapsStreetDock
@@ -138,5 +138,5 @@ Coming Soon...
 This plugin is released under the GPL-3.0 license.
 
 <div align=center>
-   <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/fbc8497d-ecf1-47cb-b0f0-28234cae629f" />
+   <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/c220569a-0c2f-4e68-90c5-c0409859434c" />
 </div>
